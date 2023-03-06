@@ -1,2 +1,2 @@
 # DEEP LEARNING MODEL FOR DETECTION OF MALARIA INFECTED RED BLOOD CELLS
-In this computer vision project, I trained convolutional neural network which takes image of red blood cells and predict if the cell in malaria infected or not. The model has accuracy of 0.94. I also built a flask application for deployment of the model to production environment.
+In this computer vision project, I trained a convolutional neural network that takes an image of a red blood cell and predicts if the cell is malaria infected or not. The model has an accuracy of 94%. I deployed the model in FlasAPI and built a flask web application that uses the model to accurately diagnoses malaria infection.
